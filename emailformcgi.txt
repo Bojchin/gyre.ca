@@ -1,0 +1,126 @@
+To: hillary@hhdesign.ca                          
+Subject: Gyre Immigration Assessment Form
+                                                  
+How did you hear of us: 	[howdidyouhearofus]
+Full name:					[pafamilyname]
+Address:					[padaddressname]
+E-mail address:				[paEmail]
+Telephone number:			[patelephonenumber]
+How can we contact you:		[contactme]
+Date of birth:				[padateofbirth]
+Place of birth
+Town:						[paplaceofbirthTown]
+State/Provine:				[paplaceofbirthStateProvince]
+Country:					[paplaceofbirthCountry]
+Present Country of Citizenship:	[paPresentCountryofCitizenship]
+Marital status:				[paMaritalStatus]
+
+SPOUSE (IF APPLICABLE)
+
+Full name:					[spFamilyName]
+Date of birth:				[spDateOfBirth]
+Place of birth
+Town:						[spPlaceOfBirthTown]
+State/Province:				[spPlaceOfBirthStateProvince]
+Country:					[spPlaceOfBirthCountry]
+Present Country of Citizenship:	[spPresentCountryOfCitizenship]
+Marital status:				[spMaritalStatus]
+
+DEPENDANTS
+
+1st Child
+
+Full name:					[dc1FamilyName]				
+Date of birth (dd/mm/yy):	[dc1DateOfBirth]
+Place of birth
+Town:						[dc1PlaceOfBirthTown]
+State/Province:				[dc1PlaceOfBirthStateProvince]
+Country:					[dc1PlaceOfBirthCountry]	
+Present Country of Citizenship:	[dc1PresentCountryOfCitizenship]
+
+2nd Child
+
+Full name:					[dc2FamilyName]				
+Date of birth (dd/mm/yy):	[dc2DateOfBirth]
+Place of birth
+Town:						[dc2PlaceOfBirthTown]
+State/Province:				[dc2PlaceOfBirthStateProvince]
+Country:					[dc2PlaceOfBirthCountry]	
+Present Country of Citizenship:	[dc2PresentCountryOfCitizenship]
+
+3rd Child
+
+Full name:					[dc3FamilyName]				
+Date of birth (dd/mm/yy):	[dc3DateOfBirth]
+Place of birth
+Town:						[dc3PlaceOfBirthTown]
+State/Province:				[dc3PlaceOfBirthStateProvince]
+Country:					[dc3PlaceOfBirthCountry]	
+Present Country of Citizenship:	[dc3PresentCountryOfCitizenship]
+
+*EDUCATIONAL AND EMPLOYMENT DETAILS
+
+Educational history of principal applicant
+
+Institution:				[eepaInstitution]
+City and Country:			[eepaCityAndCountry]
+Date commenced:				[eepaDateCommenced]
+Date completed:				[eepaDateCompleted]
+Qualification attained:		[eepaQualificationAttained]
+Special skills:				[eepaSkillsTraining]
+
+Employment history of principal applicant
+
+Employment:					[eepaEmployment1]
+Employment:					[eepaEmployment2]
+Employment:					[eepaEmployment3]
+Employment:					[eepaEmployment4]
+
+Trade registrations and/or membership of professional associations:	[eepaTradeRegprofAssocs]
+
+Educational history of spouse
+
+Institution:				[eespInstitution]
+City and Country:			[eespCityAndCountry]
+Date commenced:				[eespDateCommenced]
+Date completed:				[eespDateCompleted]
+Qualification attained:		[eespQualificationAttained]
+Special skills:				[eespSkillsTraining]
+
+Employment history of spouse
+
+Employment:					[eespEmployment1]
+Employment:					[eespEmployment2]
+Employment:					[eespEmployment3]
+Employment:					[eespEmployment4]
+
+Language Skills
+
+English proficiency PRINCIPAL APPLICANT:	[apenglish]
+English proficiency SPOUSE:					[spenglish]		
+
+Trade registrations and/or membership of professional associations:	[eespTradeRegprofAssocs]
+
+Settlement funds 
+
+Transferable money:			[sfTransferableMoney]
+Property:					[sfProperty]
+Pension:					[sfPension]
+Other:						[sfOther]
+
+Relatives in Canada:
+Do you have relatives in Canada:	[relatives]
+Name of relative:			[relativename]
+Province relative lives in:	[relativeprovince]
+Relationship to relative:	[relationship]
+
+Additional information:		[AdditionalInformation]
+
+
+
+
+
+
+
+
+
