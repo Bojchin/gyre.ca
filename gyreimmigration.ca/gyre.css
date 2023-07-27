@@ -121,6 +121,12 @@ ul.v-menu {
 	text-decoration: none;
 }
 
+/* Dashed List */
+ul.dash {
+	list-style-type:symbols(-);
+	font-size: calc(12px + 0.35vh);
+}
+
 /* Body Text */
 .text {
 	font-family: Arial, Helvetica, sans-serif;
