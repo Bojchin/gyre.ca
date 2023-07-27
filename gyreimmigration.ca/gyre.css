@@ -123,7 +123,7 @@ ul.v-menu {
 
 /* Dashed List */
 ul.dash {
-	list-style-type:symbols(-);
+	list-style-type:"-";
 	font-size: calc(12px + 0.35vh);
 }
 

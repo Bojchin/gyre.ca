@@ -14,19 +14,19 @@
 
 	<script>
 
-		for (let i = 0; i < 8; i++){
+		for (let i = 0; i < 8; i++) {
 			window.addEvent('domready', function () {
-			//-vertical
+				//-vertical
 
-			var mySlide = new Fx.Slide('v-menu');
-			mySlide.hide();
-			$('toggle').addEvent('click', function (e) {
-				e = new Event(e);
-				mySlide.toggle();
-				e.stop();
+				var mySlide = new Fx.Slide('v-menu');
+				mySlide.hide();
+				$('toggle').addEvent('click', function (e) {
+					e = new Event(e);
+					mySlide.toggle();
+					e.stop();
+				});
+
 			});
-
-		});
 		}
 
 	</script>
@@ -66,8 +66,8 @@
 		<tr>
 			<td>&nbsp;</td>
 			<!--<a href="http://www.gyreimmigration.ca">-->
-			<td align="center"><a href="index.html"><img src="images/gyreimmlogo.png" width="400"
-						height="168" border="0" /></a></td>
+			<td align="center"><a href="index.html"><img src="images/gyreimmlogo.png" width="400" height="168"
+						border="0" /></a></td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr bgcolor="#EEEEEE">
@@ -93,28 +93,38 @@
 					<br />
 					Gyre Immigration is based on the east coast of Canada in Halifax, Nova Scotia. We offer immigration
 					and relocation consulting services for people looking to move to Canada. Our services will guide you
-					through the process of immigrating to Canada on a temporary or permanent basis. For employers, we design
+					through the process of immigrating to Canada on a temporary or permanent basis. For employers, we
+					design
 					and help manage the recruitment and settlement of foreign nationals.
 				</p>
 				<p>We specialize in offering the following services:</p>
-				<p>Temporary Resident Applications</p>
-				<p> - Labour Market Impact Assessments (for employers)<br />
-					- Work Permits (and renewals)</p>
-				<p>Permanent Resident Applications </p>
-				<p> - Nova Scotia Provincial Nominee Programs <br />
-					- Atlantic Immigration Program <br />
-					- Express Entry <br />
-					- Family Sponsorship </p>
-				<p>Other</p>
-				<p> - Permanent Resident Card Applications Renewals (and questionnaires) <br />
-					- Citizenship Applications (and questionnaires) </p>
+				<p>Temporary Resident Applications
+				<ul class="dash">
+					<li>Labour Market Impact Assessments (for employers)</li>
+					<li>Work Permits (and renewals)</li>
+				</ul>
+				</p>
+				<p>Permanent Resident Applications
+				<ul class="dash">
+					<li>Nova Scotia Provincial Nominee Programs</li>
+					<li>Atlantic Immigration Program</li>
+					<li>Express Entry</li>
+					<li>Family Sponsorship</li>
+				</ul>
+				</p>
+				<p>Other
+				<ul class="dash">
+					<li>Permanent Resident Card Applications Renewals (and questionnaires)</li>
+					<li>Citizenship Applications (and questionnaires)</li>
+				</ul>
+				</p>
 				<p> As a member in good standing with the <a href="http://www.iccrc-crcic.ca?setLanCookie=En"
 						target="_blank"><u>Immigration Consultants of Canada Regulatory Council</u></a>, the team at
 					Gyre Immigration are permitted to act on your behalf in matters before Citizenship and Immigration
 					Canada (CIC) and the Canada Border Services Agency (CBSA). </p>
 				<table width="810" border="0" cellspacing="0" cellpadding="0">
 					<tr>
-						<td align="center"><a href="immigrationcategories.html"><img src="images/home1.jpg" width="265" 
+						<td align="center"><a href="immigrationcategories.html"><img src="images/home1.jpg" width="265"
 									height="300" border="0" /></a></td>
 						<td align="center"><a href="employerservices.html"><img src="images/home2.jpg" width="265"
 									height="300" border="0" /></a></td>
