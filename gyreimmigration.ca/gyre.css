@@ -1,4 +1,4 @@
-/* CSS Document */
+/* gyreimmigration.ca css doc */
 
 @charset "UTF-8";
 
@@ -78,7 +78,7 @@ a:hover.button {
 	outline: 0;
 }
 
-/* Immigration Types Menu		*/
+/* Immigration Types Menu - not in use		*/
 .v-menu {
 	border: 0;
 	width: auto;
@@ -155,9 +155,10 @@ body {
 	float: left;
 }
 
+/*Disclaimer footer*/
 .gyrefooter {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	font-size: calc(10px + 0.35vh);
 	color: #666;
 	float: left;
 	margin-left: 5px;
@@ -165,7 +166,7 @@ body {
 
 .hhfooter {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	font-size: calc(10px + 0.35vh);
 	color: #666;
 	float: right;
 	margin-right: 5px;
